@@ -1,4 +1,5 @@
 # TW_GoFast
 
 
-dqzdqz
+-  Config simple à comprendre
+-  Point de livraison aléatoire
